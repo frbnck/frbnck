@@ -12,6 +12,6 @@
   </a>
   &nbsp;
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cnet.com/a/img/resize/6f59de6f421aca65461420ada94716b37c756c87/hub/2011/01/18/8d118cb0-fdc0-11e2-8c7c-d4ae52e62bcc/HTML5-wow.png?auto=webp&fit=crop&height=675&width=1200" alt="HTML5" width="60" height="60"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMxeMxeUrbXbGufadiLPpRmkRFlXe-5aDWgEy0SwvH1nKyNzSVuBxjM5tWe3u9OkLmGybn3AB7SXFKvJYt2l8g9eeUAuq80qhZPU6FHF6nw9KF7IptJCEYmOndMblorsWgwQriPtThnhyphenhyphenz6nDbzbvdFme5S6hoxPHdaAtCbSZaw5FjJ06xQK0UqBS5nc_/w640-h640/HTML5-wow.jpg)" alt="HTML5" width="60" height="60"/>
   </a>
 </p>
