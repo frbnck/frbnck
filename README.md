@@ -6,6 +6,6 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,java)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,java)](#)
 
 [Visit my Portfolio](https://frbnck.github.io/Portfolio/)
