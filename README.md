@@ -8,6 +8,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,java)](#)
 
-<a href="https://frbnck.github.io/Portfolio/" style="text-decoration: none;">
-  <h3 align="left">Visit my Portfolio</h3>
-</a>
+[Visit my Portfolio](https://frbnck.github.io/Portfolio/)
